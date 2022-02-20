@@ -1,0 +1,3 @@
+git+https://github.com/JavDomGom/pytube
+
+python -m pip install git+https://github.com/JavDomGom/pytube
