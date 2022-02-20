@@ -1,6 +1,13 @@
 # Scrap-Go YouTube downloader
 
     Scrap-Go YouTube downloader is a web application (software as a service) hosted in the Google cloud platform (PaaS -Platform as a service).
+    
+        Fast and easy to use.
+        Completely free and users do not need any installations.
+        No viruses, spyware or malware.
+        All modern platforms supported.
+
+
     the app is hosted in Google cloud and users can connect it over the internet. Once a user has logged in to the web application following screen will appear.
 
    ![Picture1](https://user-images.githubusercontent.com/98567144/154829648-8312a1db-720f-4f26-8850-ebadf8fc25cd.png)
@@ -17,7 +24,9 @@
    ![Picture4](https://user-images.githubusercontent.com/98567144/154829702-6ceae6ce-7e17-4460-b087-f8a90b50041b.png)
 
 **Instructions**
-
+    
+    Make sure all requirements and additional libraries are completed according to the requirements.txt file and app.yaml before deploying the application.
+    
     Step 1. Create a new project on google cloud and deploy project files in the Google Cloud platform
     Step 2 open the web application from google cloud
 
@@ -45,8 +54,10 @@
 
 **Built with**
 
-Google cloud app engine
-Python
-Flask
+    Google cloud app engine
+    Python
+    Flask
+    Youtube dl
+    pytube
 
 
